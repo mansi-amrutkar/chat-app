@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Build a Real-Time Chat App with React, Node.js, Socket.IO & Prisma
 
 A **full-stack real-time chat application** built using **React, Node.js, Express, Prisma, MySQL, and Socket.IO**.
@@ -80,3 +81,6 @@ If you found this helpful:
 
 It really motivates me to build more **real-world full-stack projects** 🚀
 # note-app
+=======
+# chat-app
+>>>>>>> a080493c488296882e70a1474c659c2328c2a766
