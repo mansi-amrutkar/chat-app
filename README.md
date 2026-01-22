@@ -28,11 +28,17 @@ and persistent chat history using a modern tech stack.
 | Authentication   | JWT (JSON Web Token)          |
 
 🔄 Real-Time Communication Flow
-1️⃣ User logs in → authenticated using JWT  
-2️⃣ User connects to Socket.IO → added to online users map  
+
+1️⃣ User logs in → authenticated using JWT 
+
+2️⃣ User connects to Socket.IO → added to online users map
+
 3️⃣ Chat session is fetched or created (once per user pair) 
+
 4️⃣ Messages are emitted in real time using Socket.IO  
+
 5️⃣ Messages are saved in MySQL via Prisma  
+
 6️⃣ Chat history loads automatically on session open 
 
 
