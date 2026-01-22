@@ -41,4 +41,10 @@ and persistent chat history using a modern tech stack.
 
 6️⃣ Chat history loads automatically on session open 
 
+#output
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2c8b486e-2fa2-47dc-94cd-1d1b43b6e209" />
 
+
+
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2c8b486e-2fa2-47dc-94cd-1d1b43b6e209" />
